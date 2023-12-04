@@ -1,0 +1,2 @@
+../Core/Src/FSM.c:46:6:command_fsm	8	static
+../Core/Src/FSM.c:316:6:proc_fsm	8	static
